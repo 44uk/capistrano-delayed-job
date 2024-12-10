@@ -1,4 +1,5 @@
 require 'erb'
+require 'stringio'
 
 module Capistrano
   module DelayedJob
